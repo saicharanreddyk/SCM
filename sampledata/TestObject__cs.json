@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "TestObject__c",
+                "referenceId": "TestObject__cRef1"
+            },
+            "Name": "TO2"
+        },
+        {
+            "attributes": {
+                "type": "TestObject__c",
+                "referenceId": "TestObject__cRef2"
+            },
+            "Name": "TO1"
+        }
+    ]
+}

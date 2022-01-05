@@ -1,0 +1,26 @@
+[
+    {
+        "sobject": "TestObject__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "TestObject__cs.json"
+        ]
+    },
+    {
+        "sobject": "TestObject3__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "TestObject3__cs.json"
+        ]
+    },
+    {
+        "sobject": "TestObject2__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "TestObject2__cs.json"
+        ]
+    }
+]

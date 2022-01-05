@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AnalyticsDemoDataflowHelper</members>
+        <members>AnalyticsDemoFAQ</members>
+        <members>ReplaceSfdcDigestByEdgemarts</members>
+        <members>ReplaceSfdcDigestByEdgemartsDirect</members>
+        <members>ReplaceSfdcDigestByEdgemartsGeneric</members>
+        <members>RestApiResponseBody</members>
+        <members>WaveApplicationActionField</members>
+        <members>WaveApplicationEdgemart</members>
+        <members>WaveConfiguratorException</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>OpportunityHistory__c-OpportunityHistory%5F%5Fc Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>pagination</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>OpportunityHistory__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>OpportunityHistory__c.Amount__c</members>
+        <members>OpportunityHistory__c.analyticsdemo_batch_id__c</members>
+        <members>OpportunityHistory__c.CloseDate__c</members>
+        <members>OpportunityHistory__c.CreatedDate__c</members>
+        <members>OpportunityHistory__c.External_Id__c</members>
+        <members>OpportunityHistory__c.ForecastCategory__c</members>
+        <members>OpportunityHistory__c.OpportunityId__c</members>
+        <members>OpportunityHistory__c.StageName__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>52.0</version>
+</Package>
